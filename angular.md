@@ -203,4 +203,3 @@ When making API calls, responses from some of them do not change frequently. In 
 Angular provides environment configurations to declare variables unique for each environment. The default environments are development and production. We can even add more environments, or add new variables in existing environment files.
 
 | [Start](README.md) |
-| ------------------------------------- | --------------------------------- | ------------------ |
